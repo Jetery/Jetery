@@ -32,4 +32,4 @@
 
 - 🌱 I’m currently learning Java, Python.
 - 🤔 I’m looking for help with Java or Python development.
-- 📫 Reach me: 981695266@qq.com
+- 📫 Reach me: jetery2000@gmail.com
