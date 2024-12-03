@@ -13,10 +13,6 @@
 [![Clion](https://img.shields.io/badge/-Clion-000000?style=flat-square&logo=clion&logoColor=ffffff)](https://www.jetbrains.com/clion/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3schools.com/css/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=ffffff)](https://www.w3schools.com/html/)
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=ffffff)](https://gradle.org/)
@@ -34,10 +30,13 @@
 [![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=ffffff)](https://en.wikipedia.org/wiki/Shell_script)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3schools.com/css/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=ffffff)](https://www.w3schools.com/html/)
 
 
 - 🌱 I’m currently learning Java, Python.
